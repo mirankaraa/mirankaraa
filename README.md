@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Miran Kara
+## Hi there , I'm Miran Kara
 
 
 
