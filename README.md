@@ -17,7 +17,7 @@
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Technologies |
 |:---|:---|
@@ -30,7 +30,7 @@
 
 
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/miran-kara-258239342/">
