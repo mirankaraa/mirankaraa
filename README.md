@@ -15,30 +15,18 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-### Frontend
- <div
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React" />
-</p>
-  </div>
-
-### Backend
- <div
-<p>
-
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python" alt="C#, .NET, Python" />
-</p>
-</div>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</p>
+| Category | Technologies |
+|:---|:---|
+| **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) |
+| **Backend** | ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Python](https://skillicons.dev/icons?i=python) |
+| **Databases** | ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Tools** | ![Postman](https://skillicons.dev/icons?i=postman) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 
 ---
+
 
 ## 🤝 Connect With Me
 
