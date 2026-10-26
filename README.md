@@ -35,10 +35,14 @@
 ##  Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/miran-kara-258239342/">
+  <a href="https://www.linkedin.com/in/miran-kara-258239342/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
+  <a href="https://medium.com/@mmirankara" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" width="45" alt="Medium" />
+  </a>
  
+
 
 ---
 
