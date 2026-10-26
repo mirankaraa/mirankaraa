@@ -4,16 +4,6 @@
 
 <h3 align="center">Aspiring Fullstack Developer from Türkiye 🇹🇷</h3>
 
-<p align="center">
-  <a href="https://github.com/miran35">
-    <img src="https://img.shields.io/badge/GitHub-miran35-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/miran-kara-258239342/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
-  </a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -41,6 +31,16 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+---
+<p align="center">
+  <a href="https://github.com/miran35">
+    <img src="https://img.shields.io/badge/GitHub-miran35-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/miran-kara-258239342/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
 </p>
 
 ---
