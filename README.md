@@ -9,7 +9,7 @@
 
 - 🎓 Computer Programming graduate from Uşak University.
 - 💻 Interested in fullstack development and building practical software solutions.
-- 🌱 Continuously improving my skills in C# and .NET.
+- 🌱 I am  developing myself in C# and .NET.
 - 🚀 Exploring modern web technologies and backend development.
 - 🎯 My goal is to become a skilled Fullstack Developer.
 
