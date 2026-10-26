@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Miran Kara
 
 
-<h1 align="center">Hi 👋, I'm Miran</h1>
+
 <h3 align="center">Aspiring Fullstack Developer from Türkiye 🇹🇷</h3>
 
 <p align="center">
