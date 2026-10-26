@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
  
-<a href="https://medium.com/@mmirankara" target="_blank">
+<a href="[https://medium.com/@mmirankara](https://medium.com/@mmirankara)" target="_blank">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="28" alt="Medium" />
 </a>
 
