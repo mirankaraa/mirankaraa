@@ -2,7 +2,7 @@
 
 
 
-<h3 >Aspiring Fullstack Developer from Türkiye 🇹🇷</h3>
+<h3 > Fullstack Developer from Türkiye </h3>
 
 
 ## 👨‍💻 About Me
