@@ -17,16 +17,18 @@
 
 
 
+
 ##  Tech Stack
 
 | Category | Technologies |
 |:---|:---|
 | **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) |
-| **Backend** | ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Python](https://skillicons.dev/icons?i=python) |
+| **Backend** | ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Python](https://skillicons.dev/icons?i=python) ![Django](https://skillicons.dev/icons?i=django) |
 | **Databases** | ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
 | **Tools** | ![Postman](https://skillicons.dev/icons?i=postman) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 
 ---
+
 
 
 
